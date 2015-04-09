@@ -16,3 +16,6 @@ meteoric:autoform-ionic
 aldeed:simple-schema
 aldeed:collection2
 anti:fake
+useraccounts:ionic
+accounts-password
+accounts-facebook
